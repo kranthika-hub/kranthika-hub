@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Kranthika Karthikeyan
 
-<!--
-**kranthika-hub/kranthika-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student from Tamil Nadu, India  
+💻 Aspiring Full Stack Developer  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- C++
+- HTML
+- CSS
+- Basic Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- JavaScript
+- Web Development
+- Python Projects
+
+## 🛠 Projects
+- Number Guessing Game (Python)
+- School Website
+- Teacher Feedback Website
+
+## 📫 Contact
+Email: kranthika2010@gmail.com
